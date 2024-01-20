@@ -1,0 +1,15 @@
+{
+  "name": "snakcmd",
+  "version": "2.0.1",
+  "description": "An easy to use command line builder",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Munson",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
